@@ -1,2 +1,2 @@
 # web-designpage
-This page is belomgs to profile webpage using HTML CSS & Basic JS
+This page is created profile webpage using HTML CSS & Basic JS
